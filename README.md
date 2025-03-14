@@ -25,3 +25,5 @@ As for the `pdf` version, I gave up after the `pdf` simply refused to fit the im
 ## Changelog
 
 2025-03-13: To celebrate the anniversary, I created a basic `html` version and an `epub` version, and fixed some minor typos.
+
+Test message.
