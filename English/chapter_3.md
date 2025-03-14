@@ -29,13 +29,13 @@ When jumping from a tall building, you should check the necessary height and the
 
 It is also very important to check the landing place. There is no small bush downstairs. A 16-year-old girl who jumped from the roof of a five-story school building about 18 meters high into the trees below suffered only serious injuries. In the United States, a person fell from a height of 28 meters into a flower bed and suffered only minor injuries such as a broken rib and a fractured left wrist.
 
-There are no trees or street lights downstairs either. A 17-year-old high school girl who jumped from a 35-meter-high fire escape on the 14th floor only suffered serious injuries and was hospitalized for six months. As a result, she attempted suicide. Not to mention there was a green space downstairs. When she fell, the windbreaker she wore outside her uniform inflated with the air and acted like a parachute. She hit a maple tree in mid-air, thus avoiding death. A reporter from a news agency jumped from the seventh floor of a business hotel in Shinjuku. He hit a streetlight in mid-air and landed feet first. His left shoulder and pelvis were fractured but he did not die. He did not lose consciousness at the time, muttering "fuck, fuck" to himself while answering questions from the police who arrived.
+Make sure there are no trees or street lights downstairs either. A 17-year-old high school girl who jumped from a 35-meter-high fire escape on the 14th floor only suffered serious injuries and was hospitalized for six months. As a result, she attempted suicide, but there was a green space downstairs. When she fell, the windbreaker she wore outside her uniform inflated with the air and acted like a parachute. She hit a maple tree in mid-air, thus avoiding death. A reporter from a news agency jumped from the seventh floor of a business hotel in Shinjuku. He hit a streetlight in mid-air and landed feet first. His left shoulder and pelvis were fractured but he did not die. He did not lose consciousness at the time, muttering "fuck, fuck" to himself while answering questions from the police who arrived.
 
 Vehicles sometimes also act as pads. In Nagoya City, a 40-year-old man jumped onto the road from the roof of a 33-meter-high department store and fell onto the hood of a vehicle in a prone position. He suffered facial contusions and a fractured right shoulder for three months.
 
 Also, a zinc roof with bike parking underneath would not work. Because she was forbidden to keep at home a stray kitten she picked up, a 14-year-old girl jumped from the 11th floor with the kitten in her arms, breaking a large piece of the zinc roof of the bicycle parking area and breaking three ribs. She was seriously injured, but both she and the kitten survived.
 
-Although these are special examples, in an airplane accident in the United States, someone fell from a height of 370 meters to a patch of snow. He survived with just waist and a few ribs broken. Therefore, attention should also be paid to snow accumulation.
+Although this is a special example, note that, in an airplane accident in the United States, someone fell from a height of 370 meters to a patch of snow. He survived with just waist and a few ribs broken. Therefore, attention should also be paid to snow accumulation.
 
 > <sup>58</sup> Generally speaking, the mortality rate of a 10m high fall is about 80%, and the mortality rate of a 12m high fall is close to 90%.
 
@@ -56,7 +56,7 @@ There are countless examples of such falls due to accidents. What these experien
 Most people who commit suicide by jumping off buildings or cliffs do not scream or shout loudly, probably for this reason. A person who fell said: "I really want to emphasize that falling from a height is the most painless way to die." Another person who fell even said: "It was a perfect death, there was no pain at all, and it was much more painful than an injection." Therefore, it can be said that there is no pain in committing suicide by jumping off a building or a cliff.
 Of course, there are exceptions.
 
-## The girl who cried and died crying "It hurts! It hurts!"
+## The girl who died crying "It hurts! It hurts!"
 
 ![Figure 1: The relationship between height and velocity when hitting the ground.](img/3_1.png)
 

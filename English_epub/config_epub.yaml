@@ -1,0 +1,8 @@
+from: html
+to: epub
+metadata:
+  title: "The Complete Suicide Manual"
+  author: "Tsurumi Wataru"
+  pagetitle: "The Complete Suicide Manual"
+  copyright: "1993"
+

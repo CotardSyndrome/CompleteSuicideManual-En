@@ -41,7 +41,7 @@ Of course, there are ways to prevent vomiting, which simply enhance absorption b
 
 ### You will not die by overdosing on Halcyon[^halcyon]
 
-Another thing you should pay attention to is to understand the "lethal dose" before taking drugs. There are many drugs that can kill. For example, the sleeping pill Hazard is becoming a hot topic nowadays. Drowsiness comes quickly and memory may be lost after taking it, so it seems very dangerous, but it is a very safe drug. A 27-year-old woman who drank alcohol and swallowed eighty tablets of Halcyon got up like a sleepwalker after falling asleep, said to her parents, "... go to Lawson ..."[^lawson] and then fell down. He regained consciousness the next day after being sent to the hospital, and the results of the examination were normal. Just looking dangerous won't kill anyone.
+Another thing you should pay attention to is to understand the "lethal dose" before taking drugs. There are many drugs that can kill. For example, the sleeping pill Hazard is becoming a hot topic nowadays. Drowsiness comes quickly and memory may be lost after taking it, so it seems very dangerous, but it is a very safe drug. A 27-year-old woman who drank alcohol and swallowed eighty tablets of Halcyon got up like a sleepwalker after falling asleep, said to her parents, "... go to Lawson ..."[^lawson] and then fell down. She regained consciousness the next day after being sent to the hospital, and the results of the examination were normal. Just looking dangerous won't kill anyone.
 
 [^lawson]: Lawson, Inc. (株式会社ローソン, Kabushiki gaisha Rōson) is a convenience store franchise chain in Japan. The store originated in the United States, but exists today as a Japanese company based in Shinagawa, Tokyo.
 
@@ -445,10 +445,10 @@ At the same time, depending on whether the body is used to it, the toxic effects
 
 There was once a question: "Should I stop stimulants, or should I stop my life?" The correct answer should be "I should stop my life by stimulants."
 
-Immediately after the Second World War, the drug that started a stimulant craze was commercially sold under the name "Hiropon".[^hiropon] Today it is called "Shabu" or "Speed" and is widely used by gangsters and even club youths, and it is this recreational drugs that still occupies the throne of the Japanese recreational drugs industry. Amphetamine (amphetamine) is mainly used in Europe and the United States, and the inventor of methamphetamine (Hiropon) is a Japanese, and it later became widely spread around the world and became Japan's representative recreational drugs. It might as well be said that Hiropon means "love of work" in Greek.
+Immediately after the Second World War, the drug that started a stimulant craze was commercially sold under the name "Hiropon" (ヒロポン).[^hiropon] Today it is called "Shabu" (シャブ) or "Speed" (スピード) and is widely used by gangsters and even club youths, and it is this recreational drugs that still occupies the throne of the Japanese recreational drugs industry. Amphetamine (amphetamine) is mainly used in Europe and the United States, and the inventor of methamphetamine (Hiropon) is a Japanese, and it later became widely spread around the world and became Japan's representative recreational drugs. It might as well be said that Hiropon means "love of work" in Greek (Φιλόπονος filóponos).
 
 [^hiropon]:
-    During the Second World War hiropon was given by the military to fighter pilots and the signal corps in order to help them stay awake and alert. After 1945, the large military stockpiles of methamphetamine found their way onto the black market. With society in chaos, drug abuse spread rapidly and a hiropon epidemic emerged. The introduction of a comprehensive anti-drug package in the mid-1950s, including stricter laws, resulted in that abuse having been almost totally eradicated by 1957.
+    During the Second World War, hiropon was given by the military to fighter pilots and the signal corps in order to help them stay awake and alert. After 1945, the large military stockpiles of methamphetamine found their way onto the black market. With society in chaos, drug abuse spread rapidly and a hiropon epidemic emerged. The introduction of a comprehensive anti-drug package in the mid-1950s, including stricter laws, resulted in that abuse having been almost totally eradicated by 1957.
 
     Edström, Bert. "The forgotten success story: Japan and the methamphetamine problem." Japan Forum. Vol. 27. No. 4. Routledge, 2015.
 
@@ -466,7 +466,7 @@ However, for people who have become accustomed to it, even taking 0.5 to 1g a da
 
 According to a 1984 survey conducted by American Women's Magazine, one-third of women under the age of 25 have used cocaine. This is an American narcotic drug in which interest is still on the rise. There have been no reports of deaths from cocaine. The lethal dose is much higher than that of other recreational drugs, making it less suitable for suicide.
 
-It has a stimulating effect on the central nervous system and makes breathing deeper. Its pharmacological effects are considered to be roughly the same as stimulants. Usually the powder is inhaled through the nose, but the effect is much greater when given intravenously. It is said that, in general, for acute poisoning, death will occur within three hours after use. The state of consciousness in the near-Ugliness is the same as that of drugs other than hallucinogens. Even if you have a slight headache, you are conscious and will think calmly, "This is not good" and "I can't die like this." Regular users will not die even if they take 1.5 to 2 g per day.
+It has a stimulating effect on the central nervous system and makes breathing deeper. Its pharmacological effects are considered to be roughly the same as stimulants. Usually the powder is inhaled through the nose, but the effect is much greater when given intravenously. It is said that, in general, for acute poisoning, death will occur within three hours after use. The state of consciousness in the near-death state is the same as that of drugs other than hallucinogens. Even if you have a slight headache, you are conscious and will think calmly, "This is not good" and "I can't die like this." Regular users will not die even if they take 1.5 to 2 g per day.
 
 Cocaine is the main component of coca tree leaves. If you want to buy it overseas, you should buy it in Colombia, the country of origin.
 
@@ -766,7 +766,7 @@ This case is a boy who committed suicide due to being bullied. As he belongs to 
 > 
 > <sup>46</sup> Neostigmine: Neostigmine, a drug used to treat myasthenia gravis, has side effects that can cause decreased heart rate, hypotension, and weakness.
 >
-> <sup>47</sup> Ammonium: Ammonia? ? ? ? ? ?
+> <sup>47</sup> Ammonium: Ammonia
 > 
 > <sup>48</sup> Digitoxin: Digitoxin is a cardiac glycoside. It is a plant steroid similar in structure and effects to digoxin (but with longer lasting effects).
 >
