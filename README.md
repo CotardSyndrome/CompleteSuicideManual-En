@@ -16,7 +16,7 @@ For the simple one-file `html` version, open the [`The Complete Suicide Manual.h
 
 For the `epub` version, open the [`The Complete Suicide Manual.epub`](English_epub/The%20Complete%20Suicide%20Manual.epub). But be warned! The book contains tables, and some ebook readers (especially [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf/issues/2272)) may render them incorrectly. To check that it is being rendered correctly, flip through Chapter 1 and see if the tables are rendered.
 
-There is no `pdf` version, because some of the wider images and tables always gets cut off.
+There is no `pdf` version, because some of the wider images and tables always get cut off.
 
 The Chinese version is in [Chinese](Chinese) folder.
 
