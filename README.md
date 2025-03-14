@@ -16,7 +16,13 @@ For the rich `html` version, open `English/_build/html/index.html` in your brows
 
 For the simple one-file `html` version, open `English_epub/The%20Complete%20Suicide%20Manual.html`.
 
-For the `epub` version, open `English_epub/The%20Complete%20Suicide%20Manual.epub`. But be warned! The book contains tables, and some ebook readers (especially [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf/issues/2272)) may render them incorrectly. To check that it is being rendered correctly, flip through Chapter 1 and see if the tables are rendered.
+For the `epub` version, open `English_epub/The%20Complete%20Suicide%20Manual.epub`. But be warned! The book contains tables, and some ebook readers (especially [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf/issues/2272)) may render them incorrectly. To check that it is being rendered correctly, flip through Chapter 1 and see if there are tables in English text. The Japanese tables are of course rendered, because they are images. You should see a form at the start of Chapter 1 that looks like this:
+
+| | |
+| --- | --- |
+| Pain | －－－－－ |
+| Trouble | ▼▼▼▼▼ |
+| Ugliness | ▼▽▽▽▽ |
 
 There is no `pdf` version, because some of the wider images and tables always get cut off.
 
