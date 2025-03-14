@@ -1,4 +1,4 @@
-# CompleteSuicideManual-En
+# The Complete Suicide Manual, English Translation
 
 English translation of "The Complete Suicide Manual", with annotations.
 
@@ -12,11 +12,11 @@ First, clone the repo by `git clone https://github.com/CotardSyndrome/CompleteSu
 
 For the markdown version, start reading at the [contents page](English/contents.md).
 
-For the rich `html` version, open the `English/_build/html/index.html` in your browser.
+For the rich `html` version, open `English/_build/html/index.html` in your browser.
 
-For the simple one-file `html` version, open the [`The Complete Suicide Manual.html`](English_epub/The%20Complete%20Suicide%20Manual.html).
+For the simple one-file `html` version, open `English_epub/The%20Complete%20Suicide%20Manual.html`.
 
-For the `epub` version, open the [`The Complete Suicide Manual.epub`](English_epub/The%20Complete%20Suicide%20Manual.epub). But be warned! The book contains tables, and some ebook readers (especially [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf/issues/2272)) may render them incorrectly. To check that it is being rendered correctly, flip through Chapter 1 and see if the tables are rendered.
+For the `epub` version, open `English_epub/The%20Complete%20Suicide%20Manual.epub`. But be warned! The book contains tables, and some ebook readers (especially [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf/issues/2272)) may render them incorrectly. To check that it is being rendered correctly, flip through Chapter 1 and see if the tables are rendered.
 
 There is no `pdf` version, because some of the wider images and tables always get cut off.
 
@@ -36,4 +36,4 @@ As for the `pdf` version, I gave up after the `pdf` simply refused to fit the im
 
 ## Changelog
  
-2025-03-13: To celebrate the anniversary, I created a basic `html` version and an `epub` version, and fixed some minor typos.
+2025-03-13: To celebrate the anniversary, I created a basic `html` version and an `epub` version, and fixed some minor typos. I also released this project under CC0 license, to promote open access.
