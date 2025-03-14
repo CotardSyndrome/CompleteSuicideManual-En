@@ -4,9 +4,19 @@ English translation of "The Complete Suicide Manual", with annotations.
 
 The translation is based on the Taiwanese edition, but occasionally I had to refer to the Japanese edition to fix mistakes. There are plenty of mistakes in the Taiwanese edition, but I think I have caught most of them.
 
-Start reading at the [contents page](English/contents.md).
+## How to read
 
-Alternatively, download the folder and open the `English/_build/html/index.html` in your browser.
+First, clone the repo by `git clone https://github.com/CotardSyndrome/CompleteSuicideManual-En.git`.
+
+For the markdown version, start reading at the [contents page](English/contents.md).
+
+For the rich `html` version, open the `English/_build/html/index.html` in your browser.
+
+For the simple one-file `html` version, open the [`The Complete Suicide Manual.html`](English_epub/The%20Complete%20Suicide%20Manual.html).
+
+For the `epub` version, open the [`The Complete Suicide Manual.epub`](English_epub/The%20Complete%20Suicide%20Manual.epub). But be warned! The book contains tables, and some ebook readers (especially [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf/issues/2272)) may render them incorrectly. To check that it is being rendered correctly, flip through Chapter 1 and see if the tables are rendered.
+
+There is no `pdf` version, because some of the wider images and tables always gets cut off.
 
 The Chinese version is in [Chinese](Chinese) folder.
 
